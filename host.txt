@@ -1,0 +1,6 @@
+public-vpn-147.opengw.net|Japan|JP|219.100.37.240|15
+public-vpn-151.opengw.net|Japan|JP|219.100.37.240|16
+public-vpn-152.opengw.net|Japan|JP|219.100.37.238|17
+public-vpn-161.opengw.net|Japan|JP|219.100.37.240|19
+public-vpn-165.opengw.net|Japan|JP|219.100.37.240|20
+public-vpn-182.opengw.net|Japan|JP|219.100.37.244|21
