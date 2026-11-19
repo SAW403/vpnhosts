@@ -1,1 +1,1 @@
-public-vpn-165.opengw.net|Japan|JP|219.100.37.240|19
+public-vpn-57.opengw.net|Japan|JP|219.100.37.234|1
